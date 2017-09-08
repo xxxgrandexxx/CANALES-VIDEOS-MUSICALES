@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/m8mc8g.jpg" group-title="europe",1 Music
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/muzt4i.jpg" group-title="russia",1HD
+https://cdn-01.bonus-tv.ru:8090/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/cQELlfx.jpg" description="1" group-title="uk",4 Music
+http://tinyurl.com/ycgv57k4
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/1rptox.jpg" group-title="asia",4Music TV
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/2jb11.jpg" group-title="europe",538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/yi0pg.jpg" group-title="europe",ALB Music UK
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/2d9e9mx.jpg" group-title="europe",Amazing TV
+http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/x5bjw6.jpg" group-title="latino",Banda Ancha
+https://d3tqt20u0qzspi.cloudfront.net/live/_definst_/ngrp:bandaancha_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/1672ed4.jpg" group-title="usa",Bandwagon Live Music
+http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/qvXQmFc.jpg" description="1" group-title="uk",Box
+http://tinyurl.com/y7zp473v
+#EXTINF:0 tvg-logo="http://i.imgur.com/WnDwEfp.jpg" description="1" group-title="uk",Box Hits
+http://tinyurl.com/y6uczy3p
+#EXTINF:0 tvg-logo="http://i.imgur.com/Pyep6GK.jpg" description="1" group-title="uk",Box Upfront
+http://tinyurl.com/yaxnfpe8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/3589w5v.jpg" group-title="uk",BritAsia TV
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/brit_asia_tv-mobile.3gp.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/9va3o2.jpg" group-title="latino",Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/jfhhz7.jpg" group-title="uk",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/2qsmpur.jpg" group-title="europe",Chaula TV
+http://video.chaula.tv/hls/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/1218ndt.jpg" group-title="europe",CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/mskg9c.jpg" group-title="europe",Clubbing TV
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/16l0l83.jpg" group-title="europe",Company Radio TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/1zlbwcl.jpg" group-title="latino",Cool 103. TV
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/4rwzm9.jpg" group-title="europe",Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/3467vdg.jpg" group-title="asia",DESI Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/wixedx.jpg" group-title="europe",Deutsches-Musik-Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/fwu6nq.jpg" group-title="usa",Ditty TV
+http://d159oshghc0um4.cloudfront.net/live/ngrp:dittytv.stream_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/990umt.jpg" group-title="usa",DJing: Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/1sxgr6.jpg" group-title="usa",DJing: Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/jfc9hk.jpg" group-title="usa",DJing: Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/14loi6w.jpg" group-title="usa",DJing: Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/av505u.jpg" group-title="usa",DJing: Main
+https://www.djing.com/tv/live.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/efo41x.jpg" group-title="usa",DJing: Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2ztc02c.jpg" group-title="usa",DJing: Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/2h5vbig.jpg" group-title="asia",Dream TV
+http://live.netd.com.tr/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/29dh7pu.jpg" group-title="europe",ESKA: Best Music TV
+https://stream.smcdn.pl/best-t/best_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/16094oz.jpg" group-title="europe",ESKA: Party TV
+https://stream.smcdn.pl/eska_party-t/eska_party_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/vs11kg.jpg" group-title="europe",ESKA: Polo Party TV
+https://stream.smcdn.pl/polo_party-t/polo_party_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/hwxsgm.jpg" group-title="europe",ESKA: Rock TV
+https://stream.smcdn.pl/eska_rock-t/eska_rock_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/312wbqq.jpg" group-title="europe",ESKA: Vox Old's Cool TV
+https://stream.smcdn.pl/vox-t/vox_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/t7ep2h.jpg" group-title="europe",ESKA: Vox TV
+https://stream.smcdn.pl/vox2-p/stream1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/wji2o2.jpg" group-title="europe",ESKA: WAWA TV
+https://stream.smcdn.pl/wawa-t/wawa_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/nbsv13.jpg" group-title="europe",FJORTON TV
+http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/felzsi.jpg" group-title="europe",FMItalia TV
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/xol7x3.jpg" group-title="russia",Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/20hvwqd.jpg" group-title="uk",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2duiatc.jpg" group-title="russia",Hit V
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/x3sbgo.jpg" group-title="latino",Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/ssOaPla.jpg" group-title="sexy",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/2ufdkk8.jpg" group-title="russia",JUCE.TV
+http://109.68.190.192:1935/WEB_JuceTV/ngrp:JuceTV.stream-adaptive/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/APFlojD.jpg" description="1" group-title="uk",Kerrang!
+http://tinyurl.com/yb7kja3p
+#EXTINF:0 tvg-logo="http://i.imgur.com/evgbxqE.jpg" description="1" group-title="uk",Kiss
+http://tinyurl.com/y9n2zmz3
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/2iax1cl.jpg" group-title="europe",Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/2m27y94.jpg" group-title="europe",KroneHit TV
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/2nlu4pu.jpg" group-title="latino",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/2pyninb.jpg" group-title="latino",LA Radio PR
+http://miradioenlinea.net:1935/laradiopr/laradiopr/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/1zw2qzd.jpg" group-title="europe",M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/U8d4b87.jpg" description="1" group-title="uk",Magic
+http://tinyurl.com/ybt7mgjn
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/552vir.jpg" group-title="latino",Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/eajiia.jpg" group-title="asia",MH One
+http://mh1musiccloud.purplestream.in/mhonemusic/mhonemusic3-live.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/2rp7347.jpg" group-title="latino",MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/68er7a.jpg" group-title="europe",MolaTV
+http://archlinux.frilab.com:8080/mola/directe.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/2rgmmwi.jpg" group-title="usa",Monstercat FM
+https://dist1-hls.mixer.com/hls/160788_source/index.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/2925mdf.jpg" description="1" group-title="europe",Mooz Dance
+http://tinyurl.com/ycl3mu7g
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/2znmzgj.jpg" description="1" group-title="europe",Mooz HD
+http://tinyurl.com/y9sfpzks
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/20qnuh4.jpg" description="1" group-title="europe",Mooz Hits
+http://tinyurl.com/y8crot83
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/2m5z2md.jpg" description="1" group-title="europe",Mooz RO
+http://tinyurl.com/yd5cphu9
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/r0349x.jpg" group-title="europe",MTV AM
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/2qkjqle.jpg" group-title="usa",MusicChoice: MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/2d29ex.jpg" group-title="latino",MUSICTOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/1058jgn.jpg" group-title="russia",MuzzOne
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/fp2tro.jpg" group-title="russia",Nebitset TV
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/douxb5.jpg" group-title="europe",NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique/media_w982740322_16845.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/2ic7kvl.jpg" group-title="russia",O2tv
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/smil:mycdn0633430096.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/2inrwo.jpg" group-title="europe",Ocko Expres
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/erzedi.jpg" group-title="europe",Ocko Gold
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/27yphtc.jpg" group-title="europe",Ocko Music
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_hq.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/wbpj4y.jpg" group-title="latino",One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/2qmgms8.jpg" group-title="europe",Otto 8 FM TV
+http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/331jc5g.jpg" group-title="usa",Out of Focus TV
+http://pablogott.videocdn.scaleengine.net/pablogott-iphone/play/ooftv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/28w2akj.jpg" group-title="asia",PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/eaoc9c.jpg" group-title="europe",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/30cljrp.jpg" group-title="latino",Portal Foxmix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/daat2.jpg" group-title="asia",Power FM TV
+http://powertv.cdnturk.com/powertv/powertv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/deqp0z.jpg" group-title="asia",Power Turk TV
+http://powertv.cdnturk.com/powertv/powerturktv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/fkocd1.jpg" group-title="europe",Q Music TV
+http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/20mqh4.jpg" group-title="europe",Radio 101 TV
+http://se-rm3-21.se.hlslive.msf.ticdn.it/hls/CH10/live.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/314e6fo.jpg" group-title="europe",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="europe",Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/25qf7rb.jpg" group-title="europe",Radio Azzurra TV
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/mvlx1j.jpg" group-title="europe",Radio Bruno TV
+http://flash8.streaming.xdevel.com/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/317i795.jpg" group-title="europe",Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/rt0v3t.jpg" group-title="latino",Radio Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/30x75f9.jpg" group-title="europe",Radio Monte-Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/wthm6w.jpg" group-title="europe",Radio Pilatus TV
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/34zg5cy.jpg" group-title="europe",Radio Taormina TV
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2vba2hh.jpg" group-title="europe",RadioNorba TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/w1bm08.jpg" group-title="usa",RadioU TV
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/2qxuw6t.jpg" group-title="europe",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1035663218.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/23mwoyd.jpg" group-title="europe",Roma TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/11ccn5t.jpg" group-title="europe",RTI HD
+http://cdn.vsnw.net/interradio/interradio.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/qyu2r5.jpg" group-title="europe",RTL 102.5 TV
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/2ebribd.jpg" group-title="russia",Shanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/11icplh.jpg" group-title="europe",SLUSNEJ KANAL TV
+http://tv.slusnejkanal.cz/hls/sktv.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/90w108.jpg" group-title="usa",Sonus.FM TV
+http://streaming.sonus.fm/public/ngrp:stream_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/acx6cg.jpg" group-title="usa",Spirit Television
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/qzrjvl.jpg" group-title="europe",Standby TV
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/maj4v5.jpg" group-title="latino",TeleMusica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/akdeno.jpg" group-title="latino",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/k33byp.jpg" group-title="latino",Tigo Music TV
+http://tinyurl.com/nmlwdq8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/28up4cn.jpg" group-title="europe",Top Sound TV
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/aw6qgg.jpg" group-title="asia",TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/whjfq9.jpg" group-title="europe",Vibee
+http://46.101.21.42:8081/live/live2/chunks.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/zswacg.jpg" group-title="europe",Virgin Radio TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/sc6n4h.jpg" group-title="europe",Visual Radio TV
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/a5g9dl.jpg" group-title="europe",XITE TV
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/70f8uh.jpg" group-title="europe",Zougla TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
